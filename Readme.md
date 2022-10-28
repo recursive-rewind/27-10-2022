@@ -1,21 +1,24 @@
+# October-27-2022
 Team meeting of Recursive Rewind on October 27nd, 2022
 
-The Second team meeting for recursive Rewind
-Goals
-Set up Codecept
-Assign tasks and expolore potential issues
-Explore Open-Source Project
-Decide upon the testing framwwork
-decide upon the test automation framework
-Tasks Assigned
-@M-Hassan-Raza to setup GitHub workflow
-@M-Hassan-Raza to assign tasks to the rest of hte team members
-@umer-farooq1784 to explore the codebase and read up on documentation
-@Taimoor2500 to decide and explore the testing framework
-@Taimoor2500 to decide, explore and do basic implementation of the automation framework
-Deadlines
-@M-Hassan-Raza 22nd October, 2022
-@M-Hassan-Raza 23rd October, 2022
-@umer-farooq1784 23rd October, 2022
-@Taimoor2500 22nd October, 2022
-@Taimoor2500 23rd October, 2022
+## *The Second team meeting for recursive Rewind*
+### Goals
+1. Set up Codeceptjs
+2. Assign tasks and expolore potential issues
+3. Explore one test scenario outline
+
+###Tasks Assigned
+1. @M-Hassan-Raza to setup Codeceptjs
+2. @M-Hassan-Raza to automate one UI test scenario
+3. @umer-farooq1784 to setup Codeceptjs
+4. @umer-farooq1784 to automate one UI test scenario
+4. @Taimoor2500 to setup Codeceptjs
+4. @Taimoor2500 to automate one UI test scenario
+
+### Deadlines
+ 1. @M-Hassan-Raza 28th October, 2022
+ 2. @M-Hassan-Raza 29th October, 2022
+ 3. @umer-farooq1784 28th October, 2022
+ 4. @umer-farooq1784 29th October, 2022
+ 4. @Taimoor2500 28th October, 2022
+ 5. @Taimoor2500 29th October, 2022
